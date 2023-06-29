@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmd_website=self.webpackChunkmd_website||[]).push([[863],{5520:e=>{e.exports=JSON.parse('{"permalink":"/gh-writing-samples/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
