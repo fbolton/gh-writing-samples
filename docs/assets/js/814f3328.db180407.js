@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmd_website=self.webpackChunkmd_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Space automation with the API client","permalink":"/gh-writing-samples/blog/jetbrains-demo"}]}')}}]);
